@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <a6000>
+            <Filename>DND-N-v1.5-20170527-a6000-Unofficial.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download DND build">https://www.androidfilehost.com/?fid=817550096634772322</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open gapps">https://opengapps.org</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit DND Lenovo A6000 XDA thread">https://forum.xda-developers.com/lenovo-a6000/development/rom-darkness-redefined-1-4-lenovo-a6000-t3602072</XDAUrl>
+       </a6000>
+   </Stable>
+</SlimOTA>
